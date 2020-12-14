@@ -4,7 +4,7 @@
 #
 Name     : azure-graphrbac
 Version  : 0.61.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/52/31/87dd867c239b5b2c5bccade8a0fd81c28b9b380ece3db47b58ae05270842/azure-graphrbac-0.61.1.zip
 Source0  : https://files.pythonhosted.org/packages/52/31/87dd867c239b5b2c5bccade8a0fd81c28b9b380ece3db47b58ae05270842/azure-graphrbac-0.61.1.zip
 Summary  : Microsoft Azure Graph RBAC Client Library for Python
